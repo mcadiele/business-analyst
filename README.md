@@ -1,9 +1,9 @@
 # Business-Analyst
 ### bio-data 
-Morris Adiele
-Location: CA
-Email: morrisadiele@yahoo.com
-Phone: +1 (915) 203-5415
+* Morris Adiele
+* Location: CA
+* Email: morrisadiele@yahoo.com
+* Phone: +1 (915) 203-5415
 
 ### Professional Summary
 As a seasoned Business Analyst with over 5 years of experience, I bring a proven track record of delivering. strategic insights and data-driven solutions to drive organizational growth and efficiency. I excel in translating complex business requirements into actionable plans, leveraging my expertise in data analysis,
@@ -24,11 +24,11 @@ achieve its strategic objectives.
 *	Familiarity with industry-specific regulations and compliance standards, ensuring that all projects align with legal and ethical guidelines.
 
 ### Skills
--Programming Languages: Python, Java
--Data Analysis: Data Mining, Data Visualization, Statistical Analysis Frameworks: Django, React, Angular, .NET
--Cloud Services: AWS, Azure, Google Cloud Databases: MySQL, PostgreSQL, Oracle
--Project Management: Agile, Scrum, SharePoint
--Business Tools: Microsoft Excel, Tableau, Jira, Adobe, ServiceNow Web Development: HTML, CSS, JavaScript, PHP
+* Programming Languages: Python, Java
+* Data Analysis: Data Mining, Data Visualization, Statistical Analysis Frameworks: Django, React, Angular, .NET
+* Cloud Services: AWS, Azure, Google Cloud Databases: MySQL, PostgreSQL, Oracle
+* Project Management: Agile, Scrum, SharePoint
+* Business Tools: Microsoft Excel, Tableau, Jira, Adobe, ServiceNow Web Development: HTML, CSS, JavaScript, PHP
 
 ### Education
 * MASTER OF SCIENCE, ENTREPRENEURSHIP AND INNOVATION | GRADUATION DATE: 2024
@@ -45,25 +45,25 @@ Nnamdi Azikiwe University, Awka, Nigeria (GPA 3.11)
 ### Experience
 TISTA SCIENCE & TECHNOLOGY | 2023 – PRESENT SENIOR BUSINESS ANALYST
 Responsibilities
-•	Conduct analysis and provide security design requirements for existing or new systems and infrastructure, data, software and facilities.
-•	Lead the resolution of security related incidents and provide support for agency software solutions.
-•	Lead the agency security awareness program.
-•	The associate is involved in multiple technical, development, or account related projects and/or processes that are of a complex and/or critical nature.
-•	Provide expert consultation about area of expertise.
-•	The associate is expected to utilize his/her technical (area of) expertise on multiple, complex, and high- priority projects and/or processes.
-•	Direct product strategy for a specific security product, new or established.
-•	Enhance the contribution of other associates through consultation, mentoring, training.
-•	Provide advice and guidance on the response action plans for information risk events and incidents based on Incident type and severity.
+*	Conduct analysis and provide security design requirements for existing or new systems and infrastructure, data, software and facilities.
+*	Lead the resolution of security related incidents and provide support for agency software solutions.
+*	Lead the agency security awareness program.
+*	The associate is involved in multiple technical, development, or account related projects and/or processes that are of a complex and/or critical nature.
+*	Provide expert consultation about area of expertise.
+*	The associate is expected to utilize his/her technical (area of) expertise on multiple, complex, and high- priority projects and/or processes.
+*	Direct product strategy for a specific security product, new or established.
+*	Enhance the contribution of other associates through consultation, mentoring, training.
+*	Provide advice and guidance on the response action plans for information risk events and incidents based on Incident type and severity.
 
 
 ## GEP WORLDWIDE | 2022 – 2023
 BUSINESS ANALYST/TECHNOLOGY SERVICES SPECIALIST
 Responsibilities:
-•	Assisted with all aspects of assigned deployment: Process configuration, feature/functionality demos, user interface configuration, feature/functionality demos, user interface configuration, user and supplier set-up.
-•	Provided support to GEP clients with implementation of procurement delivery system using GEP tools.
-•	Gathered requirements using interviews, document analysis and familiarity with JAD process.
-•	Worked with global sales teams and technology partners to provide services to our customers using Microsoft suite of products and adobe tools for contract management.
-•	Leveraged service now application to design and streamline the organization’s IT services, manage business processes and automate routine tasks.
+*	Assisted with all aspects of assigned deployment: Process configuration, feature/functionality demos, user interface configuration, feature/functionality demos, user interface *onfiguration, user and supplier set-up.
+*	Provided support to GEP clients with implementation of procurement delivery system using GEP tools.
+*	Gathered requirements using interviews, document analysis and familiarity with JAD process.
+*	Worked with global sales teams and technology partners to provide services to our customers using Microsoft suite of products and adobe tools for contract management.
+*	Leveraged service now application to design and streamline the organization’s IT services, manage business processes and automate routine tasks.
 
 
 ## MARTA INDUSTRIES LIMITED | 2018 – 2022
