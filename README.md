@@ -12,16 +12,16 @@ achieve its strategic objectives.
 
 
 ### Professional Expertise
-•	Proficient in data analysis and interpretation, utilizing tools such as Excel, SQL, and data visualization software to extract actionable insights.
-•	Strong project management skills, with a track record of successfully leading cross-functional teams and delivering projects on time and within budget.
-•	Extensive experience in business process optimization, identifying areas for improvement and implementing solutions to enhance efficiency and productivity.
-•	Expertise in requirements gathering and documentation, ensuring clear and comprehensive communication between business stakeholders and technical teams.
-•	Skilled in conducting thorough market research and competitive analysis to inform strategic decision-making and product development.
-•	Proven ability to create detailed business reports and presentations that effectively convey complex information to both technical and non-technical audiences.
-•	Adept at risk assessment and mitigation, identifying potential issues and developing strategies to minimize their impact on project outcomes.
-•	Strong interpersonal and communication skills, facilitating collaboration and consensus-building among diverse teams and stakeholders.
-•	Proficiency in using data modeling and forecasting techniques to support evidence-based decision making.
-•	Familiarity with industry-specific regulations and compliance standards, ensuring that all projects align with legal and ethical guidelines.
+* Proficient in data analysis and interpretation, utilizing tools such as Excel, SQL, and data visualization software to extract actionable insights.
+*	Strong project management skills, with a track record of successfully leading cross-functional teams and delivering projects on time and within budget.
+*	Extensive experience in business process optimization, identifying areas for improvement and implementing solutions to enhance efficiency and productivity.
+*	Expertise in requirements gathering and documentation, ensuring clear and comprehensive communication between business stakeholders and technical teams.
+*	Skilled in conducting thorough market research and competitive analysis to inform strategic decision-making and product development.
+*	Proven ability to create detailed business reports and presentations that effectively convey complex information to both technical and non-technical audiences.
+*	Adept at risk assessment and mitigation, identifying potential issues and developing strategies to minimize their impact on project outcomes.
+*	Strong interpersonal and communication skills, facilitating collaboration and consensus-building among diverse teams and stakeholders.
+*	Proficiency in using data modeling and forecasting techniques to support evidence-based decision making.
+*	Familiarity with industry-specific regulations and compliance standards, ensuring that all projects align with legal and ethical guidelines.
 
 ### Skills
 -Programming Languages: Python, Java
